@@ -1,2 +1,3 @@
 # Laos
-official LaOS icon set inherited from Moka Icon Set
+official LaOS Icons inherited from [Papirus Icon 
+Set](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
