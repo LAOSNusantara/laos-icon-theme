@@ -11,10 +11,20 @@
    height="96"
    width="96"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="distributor-logo-laos.svg">
   <defs
-     id="defs9" />
+     id="defs9">
+    <clipPath
+       id="clipPath4239"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4241"
+         d="m 631.99999,496.36221 a 256,256 0 0 1 -256,256 256,256 0 0 1 -256,-256 256,256 0 0 1 256,-256 256,256 0 0 1 256,256 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-width="1313"
+     inkscape:window-height="744"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="47.491525"
-     inkscape:cy="47.18644"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:zoom="1.7383042"
+     inkscape:cx="-8.7703864"
+     inkscape:cy="47.186438"
+     inkscape:window-x="53"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
@@ -47,44 +57,56 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <circle
+     r="45"
+     cy="48"
+     cx="48"
+     id="circle4575"
+     style="opacity:1;fill:#1fa465;fill-opacity:1;stroke:none;stroke-width:5.47018814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  <circle
+     style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:5.1055088;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     id="path4573"
+     cx="48"
+     cy="48"
+     r="42" />
   <g
-     id="g4328"
-     transform="matrix(1.448587,0,0,1.448587,-173.81562,-21.481013)">
-    <rect
-       style="fill:#ffde47;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect4322"
-       width="58.965515"
-       height="58.965515"
-       x="125.22475"
-       y="20.063925"
-       ry="5.4521275"
-       rx="5.4521275" />
-    <rect
-       rx="5.4521275"
-       ry="5.4521275"
-       y="16.899921"
-       x="122.06075"
-       height="58.965515"
-       width="58.965515"
-       id="rect4320"
-       style="fill:#1fa463;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     transform="matrix(0.14843751,0,0,0.14843751,9.9999997,9.9999997)"
+     id="g4521">
+    <circle
+       style="opacity:1;fill:#1fa465;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4138"
+       cx="255.99998"
+       cy="255.99998"
+       r="255.99998"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/dallasarivle/Pictures/launcher_bfb.png" />
     <path
-       sodipodi:nodetypes="ccccccc"
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 209.99999,437.7143 c 0,0 -129.223583,-81.20777 -16.56906,-261.60672 27.07643,-43.35878 82.93216,-74.94903 140.85478,-132.678983 17.0531,-16.996379 42.55049,100.489173 27.65856,154.818643 -14.91234,54.40388 -68.55474,93.06818 -88.63652,134.70972 -20.80767,43.14675 -11.6578,110.0773 13.8351,130.47162 0,0 -163.43399,-40.84824 2.92439,-224.25553 23.58336,-26.00025 4.14769,-77.74367 4.14769,-77.74367 -165.54317,118.47257 -91.32321,270.64513 -84.21494,276.28492 z"
+       id="path4136"
        inkscape:connector-curvature="0"
-       id="path4318"
-       d="m 146.91528,65.196238 c -6.4635,-7.69924 -9.65508,-13.06877 -1.22034,-27.457627 3.26238,-5.771384 8.26829,-10.496648 14.23728,-14.644068 1.28405,6.915254 4.69197,14.644068 0.61017,21.559322 -7.27759,11.442382 -11.70879,14.196858 -5.28813,25.01695 -16.47322,-16.041397 3.71521,-19.250714 1.42373,-33.966103 -9.80638,8.922408 -14.96155,16.217921 -9.76271,29.491526 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4324"
-       y="65.798157"
-       x="154.41225"
-       style="font-style:normal;font-weight:normal;font-size:2.63947701px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#ffffff;fill-opacity:1"
-         y="65.798157"
-         x="154.41225"
-         id="tspan4326"
-         sodipodi:role="line">TM</tspan></text>
+       sodipodi:nodetypes="csssscscc"
+       inkscape:export-filename="/home/dallasarivle/Pictures/launcher_bfb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-137.49999,-189.71931)"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4140"
+       inkscape:export-filename="/home/dallasarivle/Pictures/launcher_bfb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="M 432.9668,649.61643 V 627.8342 h -4.43848 v -2.50488 h 12.09961 v 2.50488 h -4.27734 v 21.78223 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#ffffff;fill-opacity:1"
+         id="path4142"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 442.41504,649.61643 0.4541,-24.28711 h 3.31055 l 4.29199,19.70215 4.32129,-19.70215 h 3.31055 l 0.4541,24.28711 h -2.73926 l -0.26367,-17.65137 -4.11621,17.65137 h -1.9043 l -4.08691,-17.65137 -0.26368,17.65137 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#ffffff;fill-opacity:1"
+         id="path4144"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

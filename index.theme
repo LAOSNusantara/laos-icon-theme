@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Laos
-Inherits=Moka
+Inherits=Papirus
 Comment=Icon theme Laos 
 Directories=apps/16,apps/22,apps/24,apps/32,apps/48,apps/64,apps/96,apps/scalable,places/16,places/22,places/24,places/32,places/48,places/64,places/96,places/scalable
 
